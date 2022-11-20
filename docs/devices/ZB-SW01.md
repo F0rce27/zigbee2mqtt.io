@@ -17,9 +17,9 @@ pageClass: device-page
 |-----|-----|
 | Model | ZB-SW01  |
 | Vendor  | eWeLink  |
-| Description | Smart light switch - 1 gang |
+| Description | Ewelink ZigBee Relay Module |
 | Exposes | switch (state), linkquality |
-| Picture | ![eWeLink ZB-SW01](https://www.zigbee2mqtt.io/images/devices/ZB-SW01.jpg) |
+| Picture | ![eWeLink ZB-SW01] |
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
